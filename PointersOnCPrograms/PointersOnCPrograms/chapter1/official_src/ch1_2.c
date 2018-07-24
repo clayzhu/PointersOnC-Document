@@ -9,7 +9,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#if 1
+#if 0
 int main (void) {
     int ch; // 输入的字符
     int line = 1;   // 行号
