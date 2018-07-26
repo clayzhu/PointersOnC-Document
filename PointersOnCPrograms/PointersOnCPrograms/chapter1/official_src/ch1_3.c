@@ -9,10 +9,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#if 1
+#if 0
 int main (void) {
     int ch;
-    signed char checksum = -1;
+    signed char checksum = -1;  // 要声明为 char，而不是 int
     while ((ch = getchar()) != EOF) {
         putchar(ch);
         checksum += ch;
