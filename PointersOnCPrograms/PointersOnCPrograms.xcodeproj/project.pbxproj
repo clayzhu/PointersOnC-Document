@@ -87,12 +87,6 @@
 			isa = PBXGroup;
 			children = (
 				E6CAA3DD2104E1EC001CBB84 /* rearrang.c */,
-				E65AF59121062A87008E9398 /* ch1_1.c */,
-				E65AF59321062E2A008E9398 /* ch1_2.c */,
-				E6114C0A2107845700966515 /* ch1_3.c */,
-				E6F862F5210A20B200FF7FD1 /* ch1_4.c */,
-				E6B1AB3A210B71240000FD10 /* ch1_5.c */,
-				E632C904210F64FE00A96C6C /* ch1_6.c */,
 			);
 			path = official_src;
 			sourceTree = "<group>";
@@ -100,6 +94,12 @@
 		E6CAA3DC2104E1CE001CBB84 /* exercises */ = {
 			isa = PBXGroup;
 			children = (
+				E65AF59121062A87008E9398 /* ch1_1.c */,
+				E65AF59321062E2A008E9398 /* ch1_2.c */,
+				E6114C0A2107845700966515 /* ch1_3.c */,
+				E6F862F5210A20B200FF7FD1 /* ch1_4.c */,
+				E6B1AB3A210B71240000FD10 /* ch1_5.c */,
+				E632C904210F64FE00A96C6C /* ch1_6.c */,
 			);
 			path = exercises;
 			sourceTree = "<group>";
