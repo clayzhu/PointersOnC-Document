@@ -16,7 +16,7 @@ int    read_column_numbers_ch1_6( int columns[], int max );
 void    rearrange_ch1_6( char *output, char const *input,
                   int n_columns, int const columns[] );
 
-#if 1
+#if 0
 int
 main( void )
 {
