@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E60647F7211DC7630023D38D /* ch2_1.c in Sources */ = {isa = PBXBuildFile; fileRef = E60647F6211DC7630023D38D /* ch2_1.c */; };
 		E6114C0B2107845700966515 /* ch1_3.c in Sources */ = {isa = PBXBuildFile; fileRef = E6114C0A2107845700966515 /* ch1_3.c */; };
 		E632C905210F64FE00A96C6C /* ch1_6.c in Sources */ = {isa = PBXBuildFile; fileRef = E632C904210F64FE00A96C6C /* ch1_6.c */; };
 		E65AF59221062A87008E9398 /* ch1_1.c in Sources */ = {isa = PBXBuildFile; fileRef = E65AF59121062A87008E9398 /* ch1_1.c */; };
@@ -30,6 +31,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		E60647F6211DC7630023D38D /* ch2_1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ch2_1.c; sourceTree = "<group>"; };
 		E6114C0A2107845700966515 /* ch1_3.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ch1_3.c; sourceTree = "<group>"; };
 		E632015C20FE5D1900219931 /* PointersOnCPrograms */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = PointersOnCPrograms; sourceTree = BUILT_PRODUCTS_DIR; };
 		E632C904210F64FE00A96C6C /* ch1_6.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ch1_6.c; sourceTree = "<group>"; };
@@ -52,6 +54,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E60647F5211DC74B0023D38D /* exercises */ = {
+			isa = PBXGroup;
+			children = (
+				E60647F6211DC7630023D38D /* ch2_1.c */,
+			);
+			path = exercises;
+			sourceTree = "<group>";
+		};
 		E632015320FE5D1900219931 = {
 			isa = PBXGroup;
 			children = (
@@ -81,6 +91,7 @@
 			isa = PBXGroup;
 			children = (
 				E6738B06211CA86B0014ACC6 /* official_src */,
+				E60647F5211DC74B0023D38D /* exercises */,
 			);
 			path = chapter2;
 			sourceTree = "<group>";
@@ -182,6 +193,7 @@
 				E632C905210F64FE00A96C6C /* ch1_6.c in Sources */,
 				E6B1AB3B210B71240000FD10 /* ch1_5.c in Sources */,
 				E65AF59421062E2A008E9398 /* ch1_2.c in Sources */,
+				E60647F7211DC7630023D38D /* ch2_1.c in Sources */,
 				E65AF59221062A87008E9398 /* ch1_1.c in Sources */,
 				E6114C0B2107845700966515 /* ch1_3.c in Sources */,
 				E6F862F6210A20B200FF7FD1 /* ch1_4.c in Sources */,
