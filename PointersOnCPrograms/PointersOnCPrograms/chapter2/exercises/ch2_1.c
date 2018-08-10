@@ -7,8 +7,12 @@
 //
 
 #include <stdio.h>
+#include "ch2_1_increment.h"
+#include "ch2_1_negate.h"
 
 int main (void) {
-    int x/* blah blah*/y;
+    printf("%d %d\n", increment(10), negate(10));
+    printf("%d %d\n", increment(0), negate(0));
+    printf("%d %d\n", increment(-10), negate(-10));
     return 0;
 }
