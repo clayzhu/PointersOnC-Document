@@ -19,6 +19,7 @@
 		E6B1AB3B210B71240000FD10 /* ch1_5.c in Sources */ = {isa = PBXBuildFile; fileRef = E6B1AB3A210B71240000FD10 /* ch1_5.c */; };
 		E6CAA3DE2104E1EC001CBB84 /* rearrang.c in Sources */ = {isa = PBXBuildFile; fileRef = E6CAA3DD2104E1EC001CBB84 /* rearrang.c */; };
 		E6F862F6210A20B200FF7FD1 /* ch1_4.c in Sources */ = {isa = PBXBuildFile; fileRef = E6F862F5210A20B200FF7FD1 /* ch1_4.c */; };
+		E6FBF6202124877100EBE5FD /* ch4_1.c in Sources */ = {isa = PBXBuildFile; fileRef = E6FBF61F2124877100EBE5FD /* ch4_1.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -49,6 +50,7 @@
 		E6B1AB3A210B71240000FD10 /* ch1_5.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ch1_5.c; sourceTree = "<group>"; };
 		E6CAA3DD2104E1EC001CBB84 /* rearrang.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = rearrang.c; sourceTree = "<group>"; };
 		E6F862F5210A20B200FF7FD1 /* ch1_4.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ch1_4.c; sourceTree = "<group>"; };
+		E6FBF61F2124877100EBE5FD /* ch4_1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ch4_1.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				E6CAA3DA2104E1CE001CBB84 /* chapter1 */,
 				E6738B05211CA86B0014ACC6 /* chapter2 */,
+				E6FBF61D21247CF800EBE5FD /* chapter4 */,
 			);
 			path = PointersOnCPrograms;
 			sourceTree = "<group>";
@@ -143,6 +146,22 @@
 				E6F862F5210A20B200FF7FD1 /* ch1_4.c */,
 				E6B1AB3A210B71240000FD10 /* ch1_5.c */,
 				E632C904210F64FE00A96C6C /* ch1_6.c */,
+			);
+			path = exercises;
+			sourceTree = "<group>";
+		};
+		E6FBF61D21247CF800EBE5FD /* chapter4 */ = {
+			isa = PBXGroup;
+			children = (
+				E6FBF61E21247CF800EBE5FD /* exercises */,
+			);
+			path = chapter4;
+			sourceTree = "<group>";
+		};
+		E6FBF61E21247CF800EBE5FD /* exercises */ = {
+			isa = PBXGroup;
+			children = (
+				E6FBF61F2124877100EBE5FD /* ch4_1.c */,
 			);
 			path = exercises;
 			sourceTree = "<group>";
@@ -210,6 +229,7 @@
 				E65AF59221062A87008E9398 /* ch1_1.c in Sources */,
 				E6064801211DEC230023D38D /* ch2_1_negate.c in Sources */,
 				E6064803211DEF3E0023D38D /* ch2_2.c in Sources */,
+				E6FBF6202124877100EBE5FD /* ch4_1.c in Sources */,
 				E6114C0B2107845700966515 /* ch1_3.c in Sources */,
 				E6F862F6210A20B200FF7FD1 /* ch1_4.c in Sources */,
 				E60647FE211DEBE00023D38D /* ch2_1_increment.c in Sources */,
