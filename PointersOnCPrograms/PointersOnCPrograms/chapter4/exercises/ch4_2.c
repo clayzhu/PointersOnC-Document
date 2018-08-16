@@ -9,7 +9,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#if 1
+#if 0
 int main (void) {
     for (int i = 1; i <= 100; i ++) {
         int primeNum = 1;   // 值为1表示质数
