@@ -9,7 +9,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#if 1
+#if 0
 int main (void) {
     int ch;
     int bracePair = 0;
