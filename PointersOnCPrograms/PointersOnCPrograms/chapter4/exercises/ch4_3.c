@@ -9,7 +9,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#if 1
+#if 0
 int main (void) {
     float a, b, c;
     printf("请输入三角形三条边的长度，以空格分：");
