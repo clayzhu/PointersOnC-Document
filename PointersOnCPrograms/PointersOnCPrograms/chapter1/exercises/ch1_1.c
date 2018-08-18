@@ -6,9 +6,9 @@
 //  Copyright © 2018年 Netease. All rights reserved.
 //
 
+#if 0
 #include <stdio.h>
 
-#if 0
 int main (void) {
     printf("Hello world!\n");
     return 0;

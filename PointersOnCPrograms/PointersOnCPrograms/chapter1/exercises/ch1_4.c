@@ -6,13 +6,13 @@
 //  Copyright © 2018年 Netease. All rights reserved.
 //
 
+#if 0
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
 
 #define MAX_INPUT 1001  // 缓存设置为1001个字符，需要包括输入行的末尾 NUL
 
-#if 0
 int main (void) {
     char input[MAX_INPUT];
     int inputLen;

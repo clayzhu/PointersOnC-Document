@@ -6,10 +6,10 @@
 //  Copyright © 2018年 Netease. All rights reserved.
 //
 
+#if 1
 #include <stdio.h>
 #include <stdlib.h>
 
-#if 1
 int main (void) {
     return EXIT_SUCCESS;
 }

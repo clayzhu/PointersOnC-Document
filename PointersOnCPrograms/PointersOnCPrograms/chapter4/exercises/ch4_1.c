@@ -6,10 +6,10 @@
 //  Copyright © 2018年 Netease. All rights reserved.
 //
 
+#if 0
 #include <stdio.h>
 #include <stdlib.h>
 
-#if 0
 int main (void) {
     float num;
     printf("请输入数字：");

@@ -6,17 +6,17 @@
 //  Copyright © 2018年 Netease. All rights reserved.
 //
 
+#if 0
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #define    MAX_COLS    20    /* max # of columns to process */
 #define    MAX_INPUT    1000    /* max len of input & output lines */
 
-int    read_column_numbers_ch1_5( int columns[], int max );
+int    read_column_numbers( int columns[], int max );
 void    rearrange_ch1_5( char *output, char const *input,
                   int n_columns, int const columns[] );
 
-#if 0
 int
 main( void )
 {
@@ -41,14 +41,13 @@ main( void )
     
     return EXIT_SUCCESS;
 }
-#endif
 
 /*
  ** Read the list of column numbers, ignoring any beyond the specified
  ** maximum.
  */
 int
-read_column_numbers_ch1_5( int columns[], int max )
+read_column_numbers( int columns[], int max )
 {
     int    num = 0;
     int    ch;
@@ -136,3 +135,4 @@ rearrange_ch1_5( char *output, char const *input,
     
     output[output_col] = '\0';
 }
+#endif

@@ -6,10 +6,10 @@
 //  Copyright © 2018年 Netease. All rights reserved.
 //
 
+#if 0
 #include <stdio.h>
 #include <stdlib.h>
 
-#if 0
 int main (void) {
     int ch;
     signed char checksum = -1;  // 要声明为 char，而不是 int

@@ -10,6 +10,7 @@
 ** and columns 10 through 12 will be printed.
 */
 
+#if 0
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -20,7 +21,6 @@ int	read_column_numbers( int columns[], int max );
 void	rearrange( char *output, char const *input,
 	    int n_columns, int const columns[] );
 
-#if 0
 int
 main( void )
 {
@@ -45,7 +45,6 @@ main( void )
 
 	return EXIT_SUCCESS;
 }
-#endif
 
 /*
 ** Read the list of column numbers, ignoring any beyond the specified
@@ -129,3 +128,4 @@ rearrange( char *output, char const *input,
 
 	output[output_col] = '\0';
 }
+#endif
