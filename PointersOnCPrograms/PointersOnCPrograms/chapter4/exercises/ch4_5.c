@@ -15,13 +15,13 @@
 
 int main (void) {
     char input_line[LINE_SIZE], previous_line[LINE_SIZE];
-    int if_previous_line_printed = 0;
+    int if_previous_line_printed = 0;   // 0-前一行没打印过，1-前一行已打印过
     if (gets(previous_line) != NULL) {
         while (gets(input_line) != NULL) {
-            if (strcmp(previous_line, input_line) == 0) { 
-                if (if_previous_line_printed == 0) {
+            if (strcmp(previous_line, input_line) == 0) {   // 前一行和刚输入的这一行一样
+                if (if_previous_line_printed == 0) {    // 前一行没打印过
                     printf("%s\n", input_line);
-                    if_previous_line_printed = 1;
+                    if_previous_line_printed = 1;   // 前一行设置为已打印，连续相同的行不打印
                 }
             } else {
                 strcpy(previous_line, input_line);
