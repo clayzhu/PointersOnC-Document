@@ -10,7 +10,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main (void) {
+int main(void) {
     int ch;
     int bracePair = 0;
     while ((ch = getchar()) != EOF) {

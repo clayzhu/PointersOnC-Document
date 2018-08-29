@@ -15,6 +15,7 @@
 		E621301E21357DF500B0FED5 /* ch4_5.c in Sources */ = {isa = PBXBuildFile; fileRef = E621301D21357DF500B0FED5 /* ch4_5.c */; };
 		E632C905210F64FE00A96C6C /* ch1_6.c in Sources */ = {isa = PBXBuildFile; fileRef = E632C904210F64FE00A96C6C /* ch1_6.c */; };
 		E635CC6E2126D8DB0085BD08 /* ch4_4.c in Sources */ = {isa = PBXBuildFile; fileRef = E635CC6D2126D8DB0085BD08 /* ch4_4.c */; };
+		E643E9732136CD46005957EE /* ch4_6.c in Sources */ = {isa = PBXBuildFile; fileRef = E643E9722136CD46005957EE /* ch4_6.c */; };
 		E65AF59221062A87008E9398 /* ch1_1.c in Sources */ = {isa = PBXBuildFile; fileRef = E65AF59121062A87008E9398 /* ch1_1.c */; };
 		E65AF59421062E2A008E9398 /* ch1_2.c in Sources */ = {isa = PBXBuildFile; fileRef = E65AF59321062E2A008E9398 /* ch1_2.c */; };
 		E6738B0A211CA8AF0014ACC6 /* mystery.c in Sources */ = {isa = PBXBuildFile; fileRef = E6738B09211CA8AF0014ACC6 /* mystery.c */; };
@@ -50,6 +51,7 @@
 		E632015C20FE5D1900219931 /* PointersOnCPrograms */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = PointersOnCPrograms; sourceTree = BUILT_PRODUCTS_DIR; };
 		E632C904210F64FE00A96C6C /* ch1_6.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ch1_6.c; sourceTree = "<group>"; };
 		E635CC6D2126D8DB0085BD08 /* ch4_4.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ch4_4.c; sourceTree = "<group>"; };
+		E643E9722136CD46005957EE /* ch4_6.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ch4_6.c; sourceTree = "<group>"; };
 		E65AF59121062A87008E9398 /* ch1_1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ch1_1.c; sourceTree = "<group>"; };
 		E65AF59321062E2A008E9398 /* ch1_2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ch1_2.c; sourceTree = "<group>"; };
 		E6738B09211CA8AF0014ACC6 /* mystery.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = mystery.c; sourceTree = "<group>"; };
@@ -174,6 +176,7 @@
 				E6A2B3612125C05800E1059F /* ch4_3.c */,
 				E635CC6D2126D8DB0085BD08 /* ch4_4.c */,
 				E621301D21357DF500B0FED5 /* ch4_5.c */,
+				E643E9722136CD46005957EE /* ch4_6.c */,
 			);
 			path = exercises;
 			sourceTree = "<group>";
@@ -240,6 +243,7 @@
 				E60647F7211DC7630023D38D /* ch2_1.c in Sources */,
 				E65AF59221062A87008E9398 /* ch1_1.c in Sources */,
 				E6064801211DEC230023D38D /* ch2_1_negate.c in Sources */,
+				E643E9732136CD46005957EE /* ch4_6.c in Sources */,
 				E621301E21357DF500B0FED5 /* ch4_5.c in Sources */,
 				E6064803211DEF3E0023D38D /* ch2_2.c in Sources */,
 				E6FBF6202124877100EBE5FD /* ch4_1.c in Sources */,

@@ -10,7 +10,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main (void) {
+int main(void) {
     int ch; // 输入的字符
     int line = 1;   // 行号
     int at_beginning = 1;   // 表示输入的是第1个字符

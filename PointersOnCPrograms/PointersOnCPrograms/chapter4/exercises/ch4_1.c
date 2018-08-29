@@ -10,7 +10,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main (void) {
+int main(void) {
     float num;
     printf("请输入数字：");
     scanf("%f", &num);

@@ -14,7 +14,7 @@
 
 void copy_n(char dst[], char src[], int n);
 
-int main (void) {
+int main(void) {
     char dst[MAX_COUNT];
     char src[] = "Hello World!";
     int n = 40;

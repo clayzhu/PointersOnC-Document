@@ -10,7 +10,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main (void) {
+int main(void) {
     for (int i = 1; i <= 100; i ++) {
         int primeNum = 1;   // 值为1表示质数
         for (int j = 2; j < i; j ++) {  // 除去1和 i 本身

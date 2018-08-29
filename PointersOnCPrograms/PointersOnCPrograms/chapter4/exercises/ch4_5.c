@@ -6,14 +6,14 @@
 //  Copyright © 2018年 Netease. All rights reserved.
 //
 
-#if 1
+#if 0
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 
 #define LINE_SIZE 127
 
-int main (void) {
+int main(void) {
     char input_line[LINE_SIZE], previous_line[LINE_SIZE];
     int if_previous_line_printed = 0;   // 0-前一行没打印过，1-前一行已打印过
     if (gets(previous_line) != NULL) {

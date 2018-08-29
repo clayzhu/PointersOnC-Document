@@ -13,7 +13,7 @@
 
 #define MAX_INPUT 1001  // 缓存设置为1001个字符，需要包括输入行的末尾 NUL
 
-int main (void) {
+int main(void) {
     char input[MAX_INPUT];
     int inputLen;
     char longest[MAX_INPUT];
