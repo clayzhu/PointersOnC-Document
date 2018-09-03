@@ -22,6 +22,7 @@
 		E67CB10C21257E00007DD218 /* ch4_2.c in Sources */ = {isa = PBXBuildFile; fileRef = E67CB10B21257E00007DD218 /* ch4_2.c */; };
 		E6A2B3622125C05800E1059F /* ch4_3.c in Sources */ = {isa = PBXBuildFile; fileRef = E6A2B3612125C05800E1059F /* ch4_3.c */; };
 		E6B1AB3B210B71240000FD10 /* ch1_5.c in Sources */ = {isa = PBXBuildFile; fileRef = E6B1AB3A210B71240000FD10 /* ch1_5.c */; };
+		E6C029A5213D52D400DBE60B /* ch4_7.c in Sources */ = {isa = PBXBuildFile; fileRef = E6C029A4213D52D400DBE60B /* ch4_7.c */; };
 		E6CAA3DE2104E1EC001CBB84 /* rearrang.c in Sources */ = {isa = PBXBuildFile; fileRef = E6CAA3DD2104E1EC001CBB84 /* rearrang.c */; };
 		E6F862F6210A20B200FF7FD1 /* ch1_4.c in Sources */ = {isa = PBXBuildFile; fileRef = E6F862F5210A20B200FF7FD1 /* ch1_4.c */; };
 		E6FBF6202124877100EBE5FD /* ch4_1.c in Sources */ = {isa = PBXBuildFile; fileRef = E6FBF61F2124877100EBE5FD /* ch4_1.c */; };
@@ -58,6 +59,7 @@
 		E67CB10B21257E00007DD218 /* ch4_2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ch4_2.c; sourceTree = "<group>"; };
 		E6A2B3612125C05800E1059F /* ch4_3.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ch4_3.c; sourceTree = "<group>"; };
 		E6B1AB3A210B71240000FD10 /* ch1_5.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ch1_5.c; sourceTree = "<group>"; };
+		E6C029A4213D52D400DBE60B /* ch4_7.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ch4_7.c; sourceTree = "<group>"; };
 		E6CAA3DD2104E1EC001CBB84 /* rearrang.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = rearrang.c; sourceTree = "<group>"; };
 		E6F862F5210A20B200FF7FD1 /* ch1_4.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ch1_4.c; sourceTree = "<group>"; };
 		E6FBF61F2124877100EBE5FD /* ch4_1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ch4_1.c; sourceTree = "<group>"; };
@@ -177,6 +179,7 @@
 				E635CC6D2126D8DB0085BD08 /* ch4_4.c */,
 				E621301D21357DF500B0FED5 /* ch4_5.c */,
 				E643E9722136CD46005957EE /* ch4_6.c */,
+				E6C029A4213D52D400DBE60B /* ch4_7.c */,
 			);
 			path = exercises;
 			sourceTree = "<group>";
@@ -252,6 +255,7 @@
 				E635CC6E2126D8DB0085BD08 /* ch4_4.c in Sources */,
 				E6F862F6210A20B200FF7FD1 /* ch1_4.c in Sources */,
 				E60647FE211DEBE00023D38D /* ch2_1_increment.c in Sources */,
+				E6C029A5213D52D400DBE60B /* ch4_7.c in Sources */,
 				E6CAA3DE2104E1EC001CBB84 /* rearrang.c in Sources */,
 				E67CB10C21257E00007DD218 /* ch4_2.c in Sources */,
 				E6738B0A211CA8AF0014ACC6 /* mystery.c in Sources */,
