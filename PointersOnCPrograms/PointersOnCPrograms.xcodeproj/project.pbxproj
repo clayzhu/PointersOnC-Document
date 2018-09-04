@@ -25,6 +25,7 @@
 		E6B1AB3B210B71240000FD10 /* ch1_5.c in Sources */ = {isa = PBXBuildFile; fileRef = E6B1AB3A210B71240000FD10 /* ch1_5.c */; };
 		E6C029A5213D52D400DBE60B /* ch4_7.c in Sources */ = {isa = PBXBuildFile; fileRef = E6C029A4213D52D400DBE60B /* ch4_7.c */; };
 		E6CAA3DE2104E1EC001CBB84 /* rearrang.c in Sources */ = {isa = PBXBuildFile; fileRef = E6CAA3DD2104E1EC001CBB84 /* rearrang.c */; };
+		E6E4EE02213E551E00B19545 /* count_1b.c in Sources */ = {isa = PBXBuildFile; fileRef = E6E4EE01213E551D00B19545 /* count_1b.c */; };
 		E6F862F6210A20B200FF7FD1 /* ch1_4.c in Sources */ = {isa = PBXBuildFile; fileRef = E6F862F5210A20B200FF7FD1 /* ch1_4.c */; };
 		E6FBF6202124877100EBE5FD /* ch4_1.c in Sources */ = {isa = PBXBuildFile; fileRef = E6FBF61F2124877100EBE5FD /* ch4_1.c */; };
 /* End PBXBuildFile section */
@@ -63,6 +64,7 @@
 		E6B1AB3A210B71240000FD10 /* ch1_5.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ch1_5.c; sourceTree = "<group>"; };
 		E6C029A4213D52D400DBE60B /* ch4_7.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ch4_7.c; sourceTree = "<group>"; };
 		E6CAA3DD2104E1EC001CBB84 /* rearrang.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = rearrang.c; sourceTree = "<group>"; };
+		E6E4EE01213E551D00B19545 /* count_1b.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = count_1b.c; sourceTree = "<group>"; };
 		E6F862F5210A20B200FF7FD1 /* ch1_4.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ch1_4.c; sourceTree = "<group>"; };
 		E6FBF61F2124877100EBE5FD /* ch4_1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ch4_1.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -130,6 +132,7 @@
 			isa = PBXGroup;
 			children = (
 				E65E26EF213D814400AA715F /* count_1a.c */,
+				E6E4EE01213E551D00B19545 /* count_1b.c */,
 			);
 			path = official_src;
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 				E6064801211DEC230023D38D /* ch2_1_negate.c in Sources */,
 				E643E9732136CD46005957EE /* ch4_6.c in Sources */,
 				E621301E21357DF500B0FED5 /* ch4_5.c in Sources */,
+				E6E4EE02213E551E00B19545 /* count_1b.c in Sources */,
 				E6064803211DEF3E0023D38D /* ch2_2.c in Sources */,
 				E65E26F0213D814400AA715F /* count_1a.c in Sources */,
 				E6FBF6202124877100EBE5FD /* ch4_1.c in Sources */,
