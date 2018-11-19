@@ -9,8 +9,13 @@
 #if 1
 #include <stdio.h>
 #include <stdlib.h>
+#include <ctype.h>
 
 int main(void) {
+    int ch;
+    while ((ch = getchar()) != EOF) {
+        putchar(tolower(ch));
+    }
     return EXIT_SUCCESS;
 }
 #endif
