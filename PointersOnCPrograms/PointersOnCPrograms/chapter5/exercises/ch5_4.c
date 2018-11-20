@@ -19,6 +19,7 @@ character_offset( unsigned bit_number )
 {
     return bit_number / CHAR_BIT;
 }
+
 /*
  **      Compute the bit number within the desired character
  */
