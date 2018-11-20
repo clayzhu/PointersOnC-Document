@@ -6,7 +6,7 @@
 //  Copyright © 2018 Netease. All rights reserved.
 //
 
-#if 1
+#if 0
 // 习题 ch5_1 另一种解法
 #include <stdio.h>
 #include <stdlib.h>
