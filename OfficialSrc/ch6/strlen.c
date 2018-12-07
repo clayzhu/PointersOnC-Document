@@ -2,6 +2,7 @@
 ** Compute the length of a string.
 */
 
+#if 0
 #include <stdlib.h>
 
 size_t
@@ -18,3 +19,4 @@ strlen( char *string )
 
 	return length;
 }
+#endif
