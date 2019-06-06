@@ -4,6 +4,7 @@
 
 #include <stdlib.h>
 
+#if 0
 size_t
 strlen( char *string )
 {
@@ -18,3 +19,4 @@ strlen( char *string )
 
 	return length;
 }
+#endif
