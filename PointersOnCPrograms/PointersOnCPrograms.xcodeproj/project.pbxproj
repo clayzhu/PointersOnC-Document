@@ -18,6 +18,7 @@
 		E636593021A5B50700B4BABE /* ch5_5.c in Sources */ = {isa = PBXBuildFile; fileRef = E636592F21A5B50700B4BABE /* ch5_5.c */; };
 		E643E9732136CD46005957EE /* ch4_6.c in Sources */ = {isa = PBXBuildFile; fileRef = E643E9722136CD46005957EE /* ch4_6.c */; };
 		E64A1F0722A9114D003D6F74 /* strlen.c in Sources */ = {isa = PBXBuildFile; fileRef = E64A1F0622A9114D003D6F74 /* strlen.c */; };
+		E64A1F0922A91766003D6F74 /* s_srch1.c in Sources */ = {isa = PBXBuildFile; fileRef = E64A1F0822A91766003D6F74 /* s_srch1.c */; };
 		E64AF1032193140800D5C182 /* ch5_1.c in Sources */ = {isa = PBXBuildFile; fileRef = E64AF1022193140800D5C182 /* ch5_1.c */; };
 		E65AF59221062A87008E9398 /* ch1_1.c in Sources */ = {isa = PBXBuildFile; fileRef = E65AF59121062A87008E9398 /* ch1_1.c */; };
 		E65AF59421062E2A008E9398 /* ch1_2.c in Sources */ = {isa = PBXBuildFile; fileRef = E65AF59321062E2A008E9398 /* ch1_2.c */; };
@@ -65,6 +66,7 @@
 		E636592F21A5B50700B4BABE /* ch5_5.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ch5_5.c; sourceTree = "<group>"; };
 		E643E9722136CD46005957EE /* ch4_6.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ch4_6.c; sourceTree = "<group>"; };
 		E64A1F0622A9114D003D6F74 /* strlen.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = strlen.c; sourceTree = "<group>"; };
+		E64A1F0822A91766003D6F74 /* s_srch1.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = s_srch1.c; sourceTree = "<group>"; };
 		E64AF1022193140800D5C182 /* ch5_1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ch5_1.c; sourceTree = "<group>"; };
 		E65AF59121062A87008E9398 /* ch1_1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ch1_1.c; sourceTree = "<group>"; };
 		E65AF59321062E2A008E9398 /* ch1_2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ch1_2.c; sourceTree = "<group>"; };
@@ -198,6 +200,7 @@
 			isa = PBXGroup;
 			children = (
 				E64A1F0622A9114D003D6F74 /* strlen.c */,
+				E64A1F0822A91766003D6F74 /* s_srch1.c */,
 			);
 			path = official_src;
 			sourceTree = "<group>";
@@ -327,6 +330,7 @@
 				E65E26F0213D814400AA715F /* count_1a.c in Sources */,
 				E6FBF6202124877100EBE5FD /* ch4_1.c in Sources */,
 				E6114C0B2107845700966515 /* ch1_3.c in Sources */,
+				E64A1F0922A91766003D6F74 /* s_srch1.c in Sources */,
 				E6A2B3622125C05800E1059F /* ch4_3.c in Sources */,
 				E635CC6E2126D8DB0085BD08 /* ch4_4.c in Sources */,
 				E64A1F0722A9114D003D6F74 /* strlen.c in Sources */,
