@@ -16,6 +16,7 @@
 		E632C905210F64FE00A96C6C /* ch1_6.c in Sources */ = {isa = PBXBuildFile; fileRef = E632C904210F64FE00A96C6C /* ch1_6.c */; };
 		E635CC6E2126D8DB0085BD08 /* ch4_4.c in Sources */ = {isa = PBXBuildFile; fileRef = E635CC6D2126D8DB0085BD08 /* ch4_4.c */; };
 		E636593021A5B50700B4BABE /* ch5_5.c in Sources */ = {isa = PBXBuildFile; fileRef = E636592F21A5B50700B4BABE /* ch5_5.c */; };
+		E63E95C122B23E3F00BB0786 /* s_srch2.c in Sources */ = {isa = PBXBuildFile; fileRef = E63E95C022B23E3E00BB0786 /* s_srch2.c */; };
 		E643E9732136CD46005957EE /* ch4_6.c in Sources */ = {isa = PBXBuildFile; fileRef = E643E9722136CD46005957EE /* ch4_6.c */; };
 		E64A1F0722A9114D003D6F74 /* strlen.c in Sources */ = {isa = PBXBuildFile; fileRef = E64A1F0622A9114D003D6F74 /* strlen.c */; };
 		E64A1F0922A91766003D6F74 /* s_srch1.c in Sources */ = {isa = PBXBuildFile; fileRef = E64A1F0822A91766003D6F74 /* s_srch1.c */; };
@@ -64,6 +65,7 @@
 		E632C904210F64FE00A96C6C /* ch1_6.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ch1_6.c; sourceTree = "<group>"; };
 		E635CC6D2126D8DB0085BD08 /* ch4_4.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ch4_4.c; sourceTree = "<group>"; };
 		E636592F21A5B50700B4BABE /* ch5_5.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ch5_5.c; sourceTree = "<group>"; };
+		E63E95C022B23E3E00BB0786 /* s_srch2.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = s_srch2.c; sourceTree = "<group>"; };
 		E643E9722136CD46005957EE /* ch4_6.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ch4_6.c; sourceTree = "<group>"; };
 		E64A1F0622A9114D003D6F74 /* strlen.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = strlen.c; sourceTree = "<group>"; };
 		E64A1F0822A91766003D6F74 /* s_srch1.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = s_srch1.c; sourceTree = "<group>"; };
@@ -201,6 +203,7 @@
 			children = (
 				E64A1F0622A9114D003D6F74 /* strlen.c */,
 				E64A1F0822A91766003D6F74 /* s_srch1.c */,
+				E63E95C022B23E3E00BB0786 /* s_srch2.c */,
 			);
 			path = official_src;
 			sourceTree = "<group>";
@@ -340,6 +343,7 @@
 				E65E7AC721A431140038DD5D /* ch5_4.c in Sources */,
 				E6C029A5213D52D400DBE60B /* ch4_7.c in Sources */,
 				E6CAA3DE2104E1EC001CBB84 /* rearrang.c in Sources */,
+				E63E95C122B23E3F00BB0786 /* s_srch2.c in Sources */,
 				E698A009213F7AE100D667EA /* bad_exp.c in Sources */,
 				E67CB10C21257E00007DD218 /* ch4_2.c in Sources */,
 				E6738B0A211CA8AF0014ACC6 /* mystery.c in Sources */,
