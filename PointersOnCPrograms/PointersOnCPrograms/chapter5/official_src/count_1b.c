@@ -2,6 +2,7 @@
 ** This function returns the number of 1-bits that appeared in
 ** the argument value.
 */
+
 #if 0
 int
 count_one_bits( unsigned value )

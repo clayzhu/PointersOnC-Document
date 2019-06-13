@@ -2,9 +2,9 @@
 ** Compute the length of a string.
 */
 
+#if 0
 #include <stdlib.h>
 
-#if 0
 size_t
 strlen( char *string )
 {

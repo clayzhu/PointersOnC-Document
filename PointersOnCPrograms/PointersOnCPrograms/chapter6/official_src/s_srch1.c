@@ -3,6 +3,7 @@
 ** the strings in the list for a particular character.
 */
 
+#if 0
 #include <stdio.h>
 
 #define	TRUE	1
@@ -28,3 +29,4 @@ find_char( char **strings, char value )
 	}
 	return FALSE;
 }
+#endif
